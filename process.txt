@@ -1,0 +1,4 @@
+1) Installed "speechrecognition pyaudio"
+2) Installed "setuptools"
+2) impoted "webbrowser"
+2) Installed "pyttsx3" -> for text to speech 
